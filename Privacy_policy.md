@@ -1,8 +1,9 @@
 
  <h1>xFreeMeda Privacy policy </h1>
- Users data stored in the firebase database: 
+ 
+ <h2>Users data stored in the firebase database: </h2>
 
-<h2>If the users consents and decides to make his profile public the information that consists of: </h2>
+If the users consents and decides to make his profile public the information that consists of: 
 
 1) E-mail address
 2) Users name
