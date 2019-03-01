@@ -1,7 +1,7 @@
 
  <h1>xFreeMeda Privacy policy </h1>
+ Users data stored in the firebase database: 
 
-<h2> Users data stored in the firebase database:
 If the users consents and decides to make his profile public the information that consists of:
 
 1) E-mail address
@@ -11,7 +11,7 @@ If the users consents and decides to make his profile public the information tha
 
 The information is stored in the Firebase database and can be accesed by all Users publicly. The App uses followin information only to help User find his friends and contacts using the app.
 
-<h2> Users data stored locally on device
+Users data stored locally on device 
 
 All other information procided by the users including:
 1) Their profile page
