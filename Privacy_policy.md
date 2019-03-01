@@ -10,7 +10,7 @@ If the users consents and decides to make his profile public the information tha
 3) FacebookID (if User gets Facebook authentication)
 4) Profile Picture 
 
-The information is stored in the Firebase database and can be accesed by all Users publicly. The App uses followin information only to help User find his friends and contacts using the app.
+Is stored in the Firebase database and can be accesed by all Users publicly. The App uses mentioned information only to help User find his friends and contacts using the app.
 
  <h2>Users data stored locally on device   </h2>
 
