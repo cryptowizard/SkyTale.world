@@ -12,16 +12,18 @@ If the users consents and decides to make his profile public the information tha
 
 Is stored in the Firebase database and can be accesed by all Users publicly. The App uses mentioned information only to help User find his friends and contacts using the app.
 
+The firebase database does not store any information about Users connections in or outside of xFreeMedia platform. All the information containing Users connections, followers, friends-list and interactions with other users is stored only on users device.
+
  <h2>Users data stored locally on device   </h2>
 
 All other information procided by the users including:
 1) Their profile page
 2) links to their other social media accounts (like: facebook, instagram, youtube)
 3) Posts 
-4) Users contacts
+4) Users contacts, friends, subscriebers
 5) Users photos
 
-Is stored only loccaly on Users device. And can be shared only by the users explicit action in direct email message within the Application.
+Is stored only loccaly on Users device. And can be shared only by the users explicit action in direct email message within the Application. All the data mentioned above is sole property and responsibility of the User.
 
 <h2> Responsibilities and code of conduct of the application provider </h2>
 
