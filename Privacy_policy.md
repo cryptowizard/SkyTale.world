@@ -5,10 +5,11 @@
 
 If the users consents and decides to make his profile public the information that consists of: 
 
-1) E-mail address
-2) Users name
-3) FacebookID (if User gets Facebook authentication)
-4) Profile Picture 
+1) Users xFreeMedia ID
+2) E-mail address
+3) Users name
+4) FacebookID (if User gets Facebook authentication)
+5) Profile Picture 
 
 Is stored in the Firebase database and can be accesed by all Users publicly. The App uses mentioned information only to help User find his friends and contacts using the app.
 
