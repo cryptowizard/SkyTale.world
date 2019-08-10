@@ -16,7 +16,7 @@ The firebase database does not store any information about Users connections in 
 
  <h2>Users data stored locally on device   </h2>
 
-All other information procided by the users including:
+All other information provided by the users including:
 1) Their profile page
 2) links to their other social media accounts (like: facebook, instagram, youtube)
 3) Posts 
